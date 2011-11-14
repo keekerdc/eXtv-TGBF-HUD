@@ -48,14 +48,13 @@
 			{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
-				"xpos"			"4"
-				"ypos"			"2"
+				"xpos"			"-2"
+				"ypos"			"-5"
 				"zpos"			"2"
-				"wide"			"26"
-				"tall"			"25"
+				"wide"			"38"
+				"tall"			"38"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"../hud/class_scoutred"
 				"scaleImage"	"1"	
 			}
 			
@@ -107,7 +106,7 @@
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"center"
-				"fgcolor"		"Garm3nHUDRealGreen"
+				"fgcolor"		"Garm3nHUDDarkGrey"
 			}
 			"specindex"
 			{
