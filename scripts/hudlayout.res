@@ -328,8 +328,8 @@
 		"visible" 	"1"
 		"enabled" 	"1"
 		"xpos"		"c-140"
-		"ypos"		"364"
-		"wide"	 	"60"
+		"ypos"		"-6"
+		"wide"	 	"70"
 		"tall"	 	"40"
 		"priority"	"40"
 	}
@@ -505,17 +505,17 @@
 		"fieldName" "HudDeathNotice"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	 "70"	
+		"xpos"	 "230"	
 		"ypos"	 "76"	
 		"wide"	 "628"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "12"
+		"MaxDeathNotices" "15"
 		"IconScale"	  "0.25"
 		"LineHeight"	  "17"
 		"LineSpacing"	  "1"
 		"CornerRadius"	  "3"
-		"RightJustify"	  "0"	// If 1, draw notices from the right
+		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
 		"TextFont"		"HudFontGarm3nTiniest"
 		
@@ -524,7 +524,7 @@
 		"IconColor"		"HudWhite"
 		"LocalPlayerColor"	"34 32 29 255"
 
-		"BaseBackgroundColor"	"34 32 29 150"		
+		"BaseBackgroundColor"	"34 32 29 180"		
 		"LocalBackgroundColor"	"245 229 196 255"	
 	}
 
@@ -939,7 +939,7 @@
 		"fieldName" 		"HudChat"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"50"	[$WIN32]
+		"xpos"			"200"	[$WIN32]
 		"xpos"			"42"	[$X360]
 		"ypos"			"275"
 		"wide"	 		"320"
